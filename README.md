@@ -2,7 +2,7 @@
 Use Neural Network model with TensorFlow to analyze nonprofit organizations
 
 ## Project Overview
-
+Build a machine learning model to predict the success of a venture by AlphabetSoup.  The trained model will be used to determine the future decisions of the company - only those projects likely to be a success will receive any future funding from AlphabetSoup.  
 
 ## Resources
 1. Data Source:
